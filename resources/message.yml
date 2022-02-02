@@ -1,0 +1,18 @@
+# You can edit the messages behind the colon in this file. Please don’t leave messages blank.
+
+# general
+prefix: "§2§l[§aVirus§2] "
+
+# Heal Command | You can edit the permission in the Plugin.yml
+missingPermissionHeal: "§fYou have no right to do that."
+
+missingArgumentHeal: "§fPlease specify a player to be cured of the virus."
+
+playerIsNotInfected: "§fThis player is not affected by the virus"
+
+# Infect Command | You can edit the permission in the Plugin.yml
+missingPermissionInfect: "§fYou have no right to do that"
+
+missingArgumentInfect: "§fPlease specify a player to bo infected by the virus"
+
+playerIsInfected: "§fThis player is already infected by the virus"

@@ -1,0 +1,21 @@
+name: VirusEffect
+version: 0.0.1
+main: Cinnec\VirusEffect\Main
+api: 4.0.8
+src-namespace-prefix: Cinnec\VirusEffect
+commands:
+  heal:
+    description: "You can heal a Player"
+    usage: "/heal <Player>"
+    permission: heal.perm
+  infect:
+    description: "You can infect a Player with the virus"
+    usage: "/infect <Player>"
+    permission: infect.perm
+permissions:
+  heal.perm:
+    description: "You can use the heal command"
+    default: true
+  infect.perm:
+    description: "You can use the infect command"
+    default: true
