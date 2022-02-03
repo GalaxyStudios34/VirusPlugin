@@ -12,3 +12,8 @@ In addition, you can heal players from the virus with /heal <player>.
 # How can I edit the messages and permissions? 
 
 You can edit the messages in the message.yml file and the permissions in the plugin.yml
+  
+  
+# Download
+  
+Feel free to use the Plugin and give me suggestions for improvement
