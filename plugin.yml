@@ -1,7 +1,7 @@
 name: VirusEffect
 version: 0.0.1
 main: Cinnec\VirusEffect\Main
-api: 4.0.8
+api: 4.0.0
 src-namespace-prefix: Cinnec\VirusEffect
 commands:
   heal:
